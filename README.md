@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Srivastava</h1>
 <h3 align="center">A passionate coder from India !</h3>
 
-<img align = "right" alt "coding" width = "400" src = "https://images.deepai.org/art-image/df46cdf5e5ca407c9aca90d7d13a2939/generate-an-image-of-a-man-doing-coding-on-his-pc-631.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letscodeshivansh&label=Profile%20views&color=0e75b6&style=flat" alt="letscodeshivansh" /> </p>
 
