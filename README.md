@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivanshsrivastava0999@gmail.com**
 
-- ⚡ Fun fact **Once I fixed a bug while taking shower!**
+- ⚡ Fun fact **Once I fixed a bug while having shower!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
