@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shivansh Srivastava</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">A passionate coder from India !</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letscodeshivansh&label=Profile%20views&color=0e75b6&style=flat" alt="letscodeshivansh" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 🤝 I’m looking for help with **Web Sockets**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 📫 How to reach me **shivanshsrivastava0999@gmail.com**
 
