@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letscodeshivansh&label=Profile%20views&color=0e75b6&style=flat" alt="letscodeshivansh" /> </p>
 
-- 🔭 I’m currently working on [MakeMyWork](https://github.com/letscodeshivansh/MakeMyWork-.git)
 
-- 🌱 I’m currently learning **Backend**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🌱 I’m currently learning **Gen AI**
+
+- 🤝 I’m looking for help with **AI**
 
 - 📫 How to reach me **shivanshsrivastava0999@gmail.com**
 
